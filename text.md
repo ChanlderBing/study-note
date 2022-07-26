@@ -2,7 +2,7 @@
 
 阿斯顿
 
-![](C:\Users\joe\Desktop\身份证\ross.jpg)
+![](assets/IMG_9993.JPG)
 
 第二次测试
 
